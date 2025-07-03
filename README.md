@@ -85,4 +85,4 @@ This project helped strengthen my understanding of:
 Feel free to check out the notebook, try running it yourself, and leave suggestions or improvements!
 
 > _Made with curiosity and pandas._ 🐼  
-> By **[Your Name]**
+> By **Manas Patel**
