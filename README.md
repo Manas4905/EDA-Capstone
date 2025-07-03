@@ -48,8 +48,7 @@ This project is part of my capstone work focused on mastering **Exploratory Data
 
 - Z-score based outlier detection
 - Correlation heatmaps
-- Pairplots and boxplots
-- Histograms and distribution plots
+- boxplots
 - Feature transformation and cleaning
 
 ---
